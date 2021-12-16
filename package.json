@@ -25,7 +25,9 @@
   "license": "MIT",
   "config": {},
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@xpack-dev-tools/qemu-arm": "2.8.0-13.1"
+  },
   "xpack": {
     "minimumXpmRequired": "0.10.8"
   }
